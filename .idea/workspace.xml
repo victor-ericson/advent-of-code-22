@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81eedf70-8843-46ed-b033-c50da76f6ca3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayFour/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayFour/.idea/DayFour.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayFour/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayFour/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayOne/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayOne/.idea/DayOne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayOne/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayOne/Instructions Day 1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayOne/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayOne/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayThree/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayThree/.idea/DayThree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayThree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayThree/Instructions Day 3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayThree/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayThree/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayTwo/Instructions Day 2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayTwo/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayTwo/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="wslo1d6s" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OuQI3nmgA8nI6ZULwvCqHdCkqw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/Users/victor",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
