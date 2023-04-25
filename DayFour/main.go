@@ -55,7 +55,7 @@ func main() {
 
 		}
 		if (intSlices[0] <= intSlices[2] && intSlices[1] >= intSlices[3]) || (intSlices[2] <= intSlices[0] && intSlices[3] >= intSlices[1]) {
-			fullyContained += 1
+			fullyContained++
 		}
 	}
 	fmt.Println(fullyContained)
